@@ -1,7 +1,7 @@
 
 .venv/
 .env/
-
+.DS_Store/
 hymenoptera_data/
 
 __pycache__
